@@ -7,7 +7,9 @@ pip install -r requirements.txt
 Run webapps
 -----------------------
 python manage.py runserver
-
+ 
+ enter url in browser http://www.localhost.com:8000/home/
+ 
 ---enter your key for query1 i.e getting total count for that key
 
 ---enter your key ,page for query2 i.e. getting total result on this specified page
