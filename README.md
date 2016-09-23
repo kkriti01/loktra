@@ -13,16 +13,16 @@ python manage.py runserver
 
 Run Script
 -----------------
-1.Scrapper.py
+#1.Scrapper.py
 #Query_1 (i.e getting total count for that key)
 
  python manage.py scrapper.py key
  
- #Query_2 (i.e. getting total result on this specified page)
+#Query_2 (i.e. getting total result on this specified page)
 
  python manage.py scrapper.py key page
  
- 2. uri.py
+ #2. uri.py
  
 #Getting  details of uri
    
@@ -32,7 +32,7 @@ Run Script
   
   python manage.py url key value
   
-3.hash.py
+#3.hash.py
 
 # for getting reverse of a string
     python manage.py runserver
