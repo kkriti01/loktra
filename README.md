@@ -1,4 +1,4 @@
-# loktra
+# Loktra
 
 Install
 ----------------
@@ -14,21 +14,21 @@ python manage.py runserver
 Run Script
 -----------------
 1.Scrapper.py
-#query_1 i.e getting total count for that key
+#Query_1 i.e getting total count for that key
 
  python manage.py scrapper.py key
  
- #query_2 i.e. getting total result on this specified page
+ #Query_2 i.e. getting total result on this specified page
 
  python manage.py scrapper.py key page
  
  2. uri.py
  
-#for getting  details of uri
+#Getting  details of uri
    
   python manage.py uri.py url
 
-# for manipulating uri
+#Manipulating uri
   
   python manage.py url key value
   
