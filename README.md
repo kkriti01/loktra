@@ -14,11 +14,11 @@ python manage.py runserver
 Run Script
 -----------------
 1.Scrapper.py
-#Query_1 i.e getting total count for that key
+#Query_1 (i.e getting total count for that key)
 
  python manage.py scrapper.py key
  
- #Query_2 i.e. getting total result on this specified page
+ #Query_2 (i.e. getting total result on this specified page)
 
  python manage.py scrapper.py key page
  
