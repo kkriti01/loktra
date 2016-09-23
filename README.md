@@ -22,7 +22,7 @@ Run Script
 
  python manage.py scrapper.py key page
  
- #2. uri.py
+#2. uri.py
  
 #Getting  details of uri
    
